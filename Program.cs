@@ -6,7 +6,7 @@ namespace exercise_three
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Comment was added");
         }
     }
 }
