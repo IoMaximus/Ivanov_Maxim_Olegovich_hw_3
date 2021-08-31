@@ -7,6 +7,7 @@ namespace exercise_three
         static void Main(string[] args)
         {
             Console.WriteLine("My new rating");
+            Console.WriteLine("Comment was added");
         }
     }
 }
